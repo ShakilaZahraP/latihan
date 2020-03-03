@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">latihan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kali">*</string>
+    <string name="bagi">:</string>
+</resources>
