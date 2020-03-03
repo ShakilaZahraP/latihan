@@ -28,7 +28,7 @@ class HitungFragment : Fragment() {
         binding.bHitung.setOnClickListener {
             if (binding.etBilangan1.text.isEmpty() || binding.etBilangan2.text.isEmpty()){
                 Toast.makeText(context, "DATA TIDAK BOLEH KOSONG!", Toast.LENGTH_SHORT)
-
+                //
             }else{
                 val bilangan1 = binding.etBilangan1.text.toString().toInt()
                 val bilangan2 = binding.etBilangan2.text.toString().toInt()
